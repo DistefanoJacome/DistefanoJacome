@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&multiline=false&width=520&lines=Construindo+fundamentos+sólidos+em+C...;Explorando+eletrônica+com+Arduino...;Futuro+desenvolvedor+Java+Sênior+🎯;Cada+linha+de+código+é+um+passo.+⚡" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=4A90D9&center=true&vCenter=true&width=580&lines=👋+Olá%2C+eu+sou+Distéfano+Barbosa+Jácome!;📚+Estudante+de+Engenharia+da+Computação;🏛️+PUC+Minas+—+Campus+Liberdade;💻+Construindo+base+sólida+em+C;🔌+Explorando+eletrônica+com+Arduino;🎯+Futuro+desenvolvedor+Java+Sênior" />
   </a>
 </div>
 
@@ -65,18 +65,23 @@ int main() {
 
 <div align="center">
 
-**Atualmente aprendendo**
+**✅ Atualmente aprendendo**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Em breve no caminho**
+**🔜 Em breve no caminho — Stack do dev Itaú**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Sistema operacional**
+**🖥️ Sistema operacional**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -108,12 +113,15 @@ int main() {
 ```
 2025 ──────────────────────────────────────────────────────────► Futuro
 
-  [✅ Agora]          [🔜 Em breve]        [🎯 Objetivo]
-  ┌─────────────┐     ┌─────────────┐     ┌─────────────────────┐
-  │  C          │────►│  Java       │────►│  Dev Java Sênior    │
-  │  Arduino    │     │  Git/GitHub │     │  Itaú Bank          │
-  │  Lógica     │     │  POO        │     │  ~5 anos            │
-  └─────────────┘     └─────────────┘     └─────────────────────┘
+  [✅ Agora]          [🔜 Em breve]              [🎯 Objetivo]
+  ┌─────────────┐     ┌───────────────────┐     ┌──────────────────────┐
+  │  C          │────►│  Java + Spring    │────►│  Dev Java Sênior     │
+  │  Arduino    │     │  SQL / MySQL      │     │  Itaú Unibanco       │
+  │  Lógica     │     │  REST APIs        │     │  ~5 anos             │
+  │  Algoritmos │     │  Git / GitHub     │     │                      │
+  └─────────────┘     │  Docker           │     └──────────────────────┘
+                      │  POO              │
+                      └───────────────────┘
 ```
 
 ---
@@ -125,7 +133,7 @@ int main() {
 - 💻 Praticando **algoritmos e entrada/saída em C**
 - 🔌 Explorando **eletrônica e automação com Arduino**
 - 📖 Aprendendo **lógica proposicional e sistemas numéricos**
-- 🎯 Construindo a base para chegar ao **Java**
+- 🎯 Construindo a base para chegar ao **Java e ao Itaú**
 
 ---
 
