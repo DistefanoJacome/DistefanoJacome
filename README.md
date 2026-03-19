@@ -1,54 +1,67 @@
 <div align="center">
 
-# Distéfano Barbosa Jácome
-
-**Estudante de Engenharia da Computação · PUC Minas**
-
-Construindo fundamentos sólidos em C, um algoritmo de cada vez.
-
----
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/status-estudando-blue?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Dist%C3%A9fano+%F0%9F%91%8B;Estudante+de+Eng.+da+Computa%C3%A7%C3%A3o;Construindo+base+s%C3%B3lida+em+C;Futuro+dev+Java+S%C3%AAnior)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Sobre
+## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia da Computação na PUC Minas (campus Liberdade), no início da minha jornada como desenvolvedor. Atualmente focado em construir uma base sólida em lógica de programação e algoritmos com C, além de explorar eletrônica e automação com Arduino.
+Sou estudante de **Engenharia da Computação** na **PUC Minas** (campus Liberdade), no início da minha jornada como desenvolvedor. Atualmente focado em construir uma base sólida em lógica e algoritmos com **C**, além de explorar eletrônica com **Arduino**.
 
-Meu objetivo de longo prazo é me tornar um desenvolvedor Java sênior.
+Meu objetivo é me tornar um **desenvolvedor Java Sênior**.
+
+```c
+// Onde estou agora
+struct Dev {
+    char nome[]       = "Distéfano Barbosa Jácome";
+    char faculdade[]  = "PUC Minas — Eng. da Computação";
+    char foco[]       = "Lógica, Algoritmos e C";
+    char objetivo[]   = "Dev Java Sênior";
+};
+```
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
-| Tecnologia | Nível |
-|---|---|
-| C | Iniciante — algoritmos, I/O, lógica |
-| Arduino | Iniciante — LEDs, circuitos, automação |
-| Java | Em breve |
+<div align="left">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## Atualmente
+## 📊 Estatísticas
 
-- 📚 Cursando **Engenharia da Computação** — 1º semestre
-- 💻 Praticando **lógica e algoritmos em C**
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DistefanoJacome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DistefanoJacome&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📍 Atualmente
+
+- 📚 1º semestre de **Engenharia da Computação** — PUC Minas
+- 💻 Praticando **algoritmos e lógica em C**
 - 🔌 Explorando **Arduino e eletrônica**
-- 🎯 Rumo ao desenvolvimento **Java**
+- 🎯 Construindo o caminho rumo ao **Java**
 
 ---
 
-## Contato
+## 📬 Contato
 
-<div>
+<div align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:distefanojacome08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:distefanojacome08@gmail.com)
 
 </div>
 
