@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:4A90D9&height=200&section=header&text=Distéfano%20Barbosa%20Jácome&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=16&descColor=8b9dc3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=4A90D9&center=true&vCenter=true&width=580&lines=👋+Olá,+eu+sou+Distéfano+Barbosa+Jácome!;📚+Estudante+de+Engenharia+da+Computação;🏛️+PUC+Minas+—+Campus+Liberdade;💻+Construindo+base+sólida+em+C;🎯+Futuro+desenvolvedor+Java+Sênior" />type=waving&color=0:0d1117,50:1a1f2e,100:4A90D9&height=200&section=header&text=Distéfano%20Barbosa%20Jácome&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=16&descColor=8b9dc3" />
 </div>
 
 <!-- TYPING ANIMATION -->
