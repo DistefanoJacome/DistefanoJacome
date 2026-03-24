@@ -34,32 +34,29 @@
 #include <stdio.h>
 
 typedef struct {
-char *nome;
-char *faculdade;
-char *curso;
-char *semestre;
-char *foco_atual;
-char *objetivo;
+    char *nome;
+    char *faculdade;
+    char *curso;
+    char *semestre;
+    char *foco_atual;
+    char *objetivo;
 } Desenvolvedor;
 
 int main() {
-Desenvolvedor eu = {
-.nome       = “Distéfano Barbosa Jácome”,
-.faculdade  = “PUC Minas — Campus Liberdade”,
-.curso      = “Engenharia da Computação”,
-.semestre   = “1º Semestre”,
-.foco_atual = “Lógica, Algoritmos e C”,
-.objetivo   = “Desenvolvedor Java Sênior no setor bancário”
-};
+    Desenvolvedor eu = {
+        .nome       = "Distéfano Barbosa Jácome",
+        .faculdade  = "PUC Minas — Campus Liberdade",
+        .curso      = "Engenharia da Computação",
+        .semestre   = "1º Semestre",
+        .foco_atual = "Lógica, Algoritmos e C",
+        .objetivo   = "Desenvolvedor Java Sênior no setor bancário"
+    };
 
-```
-printf("Olá, mundo! Sou %s.\n", eu.nome);
-printf("Estudando %s na %s.\n", eu.curso, eu.faculdade);
-printf("Objetivo: %s\n", eu.objetivo);
+    printf("Olá, mundo! Sou %s.\n", eu.nome);
+    printf("Estudando %s na %s.\n", eu.curso, eu.faculdade);
+    printf("Objetivo: %s\n", eu.objetivo);
 
-return 0;
-```
-
+    return 0;
 }
 ```
 
@@ -121,15 +118,15 @@ return 0;
 ```
 2025 ──────────────────────────────────────────────────────────► Futuro
 
-[✅ Agora]          [🔜 Em breve]              [🎯 Objetivo]
-┌─────────────┐     ┌───────────────────┐     ┌──────────────────────┐
-│  C          │────►│  Java + Spring    │────►│  Dev Java Sênior     │
-│  Arduino    │     │  SQL / MySQL      │     │  Setor Financeiro    │
-│  Lógica     │     │  REST APIs        │     │  ~5 anos             │
-│  Algoritmos │     │  Git / GitHub     │     │                      │
-└─────────────┘     │  Docker           │     └──────────────────────┘
-│  POO              │
-└───────────────────┘
+  [✅ Agora]          [🔜 Em breve]              [🎯 Objetivo]
+  ┌─────────────┐     ┌───────────────────┐     ┌──────────────────────┐
+  │  C          │────►│  Java + Spring    │────►│  Dev Java Sênior     │
+  │  Arduino    │     │  SQL / MySQL      │     │  Setor Financeiro    │
+  │  Lógica     │     │  REST APIs        │     │  ~5 anos             │
+  │  Algoritmos │     │  Git / GitHub     │     │                      │
+  └─────────────┘     │  Docker           │     └──────────────────────┘
+                      │  POO              │
+                      └───────────────────┘
 ```
 
 -----
